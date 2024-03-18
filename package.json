@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fadhiilrachman/ossdao.git"
+    "url": "git+https://github.com/spacemansold/siomay-saja.git"
   },
   "keywords": [
     "github",
@@ -17,9 +17,9 @@
   "author": "Merk Kremont",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fadhiilrachman/ossdao/issues"
+    "url": "https://github.com/spacemansold/siomay-saja/issues"
   },
-  "homepage": "https://github.com/fadhiilrachman/ossdao#readme",
+  "homepage": "https://github.com/spacemansold/siomay-saja#readme",
   "dependencies": {
     "axios": "^0.24.0",
     "dotenv": "^10.0.0",
